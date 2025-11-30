@@ -161,33 +161,3 @@ DO-WHILE
      |
 Tekrar
 
-8. Güçlü Yönler
-
-Öğretici bir oyun yapısı.
-
-Tüm temel C yapıları etkin şekilde kullanılmış.
-
-Modülerlik (fonksiyon kullanımı).
-
-Kullanıcı ile etkileşimli bir döngü sistemi.
-
-Rastgelelik sayesinde her oyunun farklı olması.
-
-Mantıksal ve aritmetik operatörlerin doğru kullanımı.
-
-9. Geliştirme Önerileri
-
-Sığınak seviyeleri eklenebilir.
-
-Envanter sistemi genişletilebilir.
-
-Menü fonksiyonu modüler hale getirilebilir.
-
-Kaydet/Yükle sistemi eklenebilir.
-
-Renkli terminal çıktısı ile görsellik artırılabilir.
-
-10. Sonuç
-
-Bu proje, C dilinin temel kontrol mekanizmalarını kapsamlı biçimde uygulayan eğitici bir simülasyon oyunudur. Oyuncu kararlarına göre değişen senaryolar ve rastgelelik, programı dinamik ve interaktif kılar.
-Özellikle switch-case, do-while, for gibi yapıları zorunlu olarak içermesi, ders/proje ödevleri için uygun bir kapsam sunmaktadır.
